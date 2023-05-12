@@ -44,7 +44,7 @@ session_start();
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <li class="nav-item">
-                                <a target="_black" href="https://www.evenyx.com/sao-joao-de-patos">COMPRAR INGRESSO</a>
+                                <a target="_black" href="https://www.evenyx.com/festa-de-santana-de-caico">COMPRAR INGRESSO</a>
                             </li>
                             <!-- <li class="nav-item">
                                 <a href="#form">NOVIDADES</a>
