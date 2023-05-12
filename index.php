@@ -70,7 +70,7 @@ session_start();
             </div>
         </nav>
         <div class="tamandare-icon">
-            <img width="90" height="100" src="img/logo-ingressos-caico.png">
+            <img src="img/logo-ingressos-caico.png">
         </div>
     </header>
     <div class="banner">
